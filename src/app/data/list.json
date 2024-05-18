@@ -1,0 +1,71 @@
+[
+    {
+        "nome": "Matheus Costa",
+        "email": "mcosta.cob@gmail.com",
+        "senha": "1234",
+        "idade": 25,
+        "endereco": {
+            "rua": "Tv Marieta",
+            "numero": 27,
+            "cidade": "Rio de Janeiro",
+            "estado": "RJ",
+            "pais": "Brasil"
+        },
+        "telefone": "21964526342",
+        "ativo": true,
+        "funcao": "Desenvolvedor",
+        "DataCadastro": "2024-05-15T09:00:00.00Z",
+        "status": {
+            "online": true,
+            "verificado": true,
+            "assinaturaAtiva": true,
+            "ultimoAcesso": "2024-05-15T09:00:00.00Z"
+        }
+    },
+    {
+        "nome": "Aline Santos",
+        "email": "aline.santos@example.com",
+        "senha": "abcd1234",
+        "idade": 32,
+        "endereco": {
+            "rua": "Rua das Flores",
+            "numero": 123,
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "pais": "Brasil"
+        },
+        "telefone": "11987654321",
+        "ativo": true,
+        "funcao": "Analista de Marketing",
+        "DataCadastro": "2024-05-15T09:00:00.00Z",
+        "status": {
+            "online": true,
+            "verificado": true,
+            "assinaturaAtiva": false,
+            "ultimoAcesso": "2024-05-14T15:30:00.00Z"
+        }
+    },
+    {
+        "nome": "Gabriel Lima",
+        "email": "g.lima@example.com",
+        "senha": "qwerty",
+        "idade": 28,
+        "endereco": {
+            "rua": "Av. Central",
+            "numero": 456,
+            "cidade": "Belo Horizonte",
+            "estado": "MG",
+            "pais": "Brasil"
+        },
+        "telefone": "3133334444",
+        "ativo": true,
+        "funcao": "Engenheiro de Software",
+        "DataCadastro": "2024-05-15T09:00:00.00Z",
+        "status": {
+            "online": true,
+            "verificado": true,
+            "assinaturaAtiva": true,
+            "ultimoAcesso": "2024-05-15T11:20:00.00Z"
+        }
+    }
+]
